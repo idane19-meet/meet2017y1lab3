@@ -1,0 +1,8 @@
+print("geia sou kosme is how you say hello world in greek")
+print("ola mundo is how you say hello world in portuguese")
+print("ahoj svete is how you say hello world in czech")
+print("annyeong sesang is how you say hello world in korean")
+print("nihae shijie is how you say hello world in chinese")
+print("namaste duniya is how you say hello world in hindi")
+print("salamu dunia is how you say hello world in swahili")
+print("shalom olam is how you say hello world in hebrew")
